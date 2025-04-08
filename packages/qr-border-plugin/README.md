@@ -210,4 +210,4 @@ Feel free to open an issue if you have any improvements or suggestions for `qr-b
 
 ## License
 
-This project is under [Commercial License](./LICENSE). You need to [buy license key](https://www.lefe.dev/marketplace/qr-border-plugin) to use it in production.
+This project is under [Commercial License](./LICENSE.md). You need to [buy license key](https://www.lefe.dev/marketplace/qr-border-plugin) to use it in production.
